@@ -60,15 +60,13 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     let frame = txn1.get(framesdb, &frame).to_owned().unwrap().to_vec();
     let mut inactive = txn1.reset();
 
+    // By reusing the builder we avoid reallocations on subsequent uses.
+    let mut builder = flexbuffers::Builder::default();
+
     for root in root_keys {
         log::trace!("begin_txn");
         let begin_txn = Instant::now();
         let txn = inactive.renew().unwrap();
-
-        log::trace!("begin_builder");
-        // If we change Builder to use Vec::with_capacity we can get this to just 3 allocations.
-        let mut builder = flexbuffers::Builder::default();
-        log::trace!("end_builder");
 
         log::trace!("begin_embed");
         let begin_embed = Instant::now();
@@ -101,6 +99,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
         }
         let end_output = Instant::now();
         log::trace!("end_output");
+        builder.reset(); // not strictly necessary as well reset automatically.
         inactive = txn.reset();
         let end_txn = Instant::now();
         log::trace!("end_txn");
