@@ -1,0 +1,3290 @@
+{
+  "@id": null,
+  "@type": [
+    null
+  ],
+  "accession": null,
+  "aliases": [
+    null
+  ],
+  "alternate_accessions": [
+    null
+  ],
+  "analyses": [
+    null
+  ],
+  "assay_slims": [
+    null
+  ],
+  "assay_synonyms": [
+    null
+  ],
+  "assay_term_id": null,
+  "assay_term_name": null,
+  "assay_title": null,
+  "assembly": [
+    null
+  ],
+  "award": {
+    "@id": null,
+    "@type": [
+      null
+    ],
+    "component": null,
+    "description": null,
+    "end_date": null,
+    "milestones": [
+      null
+    ],
+    "name": null,
+    "pi": {
+      "@id": null,
+      "@type": [
+        null
+      ],
+      "email": null,
+      "first_name": null,
+      "groups": [
+        null
+      ],
+      "job_title": null,
+      "lab": {
+        "@id": null,
+        "@type": [
+          null
+        ],
+        "address1": null,
+        "address2": null,
+        "awards": [
+          null
+        ],
+        "city": null,
+        "country": null,
+        "fax": null,
+        "institute_label": null,
+        "institute_name": null,
+        "name": null,
+        "phone1": null,
+        "phone2": null,
+        "pi": null,
+        "postal_code": null,
+        "schema_version": null,
+        "state": null,
+        "status": null,
+        "title": null,
+        "url": null,
+        "uuid": null
+      },
+      "last_name": null,
+      "schema_version": null,
+      "status": null,
+      "submits_for": [
+        null
+      ],
+      "title": null,
+      "uuid": null,
+      "viewing_groups": [
+        null
+      ]
+    },
+    "project": null,
+    "rfa": null,
+    "schema_version": null,
+    "start_date": null,
+    "status": null,
+    "title": null,
+    "url": null,
+    "uuid": null,
+    "viewing_group": null
+  },
+  "biosample_ontology": {
+    "@id": null,
+    "@type": [
+      null
+    ],
+    "aliases": [
+      null
+    ],
+    "cell_slims": [
+      null
+    ],
+    "classification": null,
+    "dbxrefs": [
+      null
+    ],
+    "developmental_slims": [
+      null
+    ],
+    "name": null,
+    "notes": null,
+    "organ_slims": [
+      null
+    ],
+    "references": [
+      null
+    ],
+    "schema_version": null,
+    "status": null,
+    "synonyms": [
+      null
+    ],
+    "system_slims": [
+      null
+    ],
+    "term_id": null,
+    "term_name": null,
+    "uuid": null
+  },
+  "biosample_summary": null,
+  "category_slims": [
+    null
+  ],
+  "contributing_files": [
+    null
+  ],
+  "control_type": null,
+  "date_created": null,
+  "date_released": null,
+  "date_submitted": null,
+  "dbxrefs": [
+    null
+  ],
+  "description": null,
+  "documents": [
+    null
+  ],
+  "files": [
+    {
+      "@id": null,
+      "@type": [
+        null
+      ],
+      "accession": null,
+      "aliases": [
+        null
+      ],
+      "alternate_accessions": [
+        null
+      ],
+      "analysis_step_version": {
+        "@id": null,
+        "@type": [
+          null
+        ],
+        "aliases": [
+          null
+        ],
+        "analysis_step": {
+          "@id": null,
+          "@type": [
+            null
+          ],
+          "aliases": [
+            null
+          ],
+          "analysis_step_types": [
+            null
+          ],
+          "current_version": null,
+          "date_created": null,
+          "documents": [
+            null
+          ],
+          "input_file_types": [
+            null
+          ],
+          "major_version": null,
+          "name": null,
+          "notes": null,
+          "output_file_types": [
+            null
+          ],
+          "parents": [
+            null
+          ],
+          "pipelines": [
+            {
+              "@id": null,
+              "@type": [
+                null
+              ],
+              "accession": null,
+              "aliases": [
+                null
+              ],
+              "alternate_accessions": [
+                null
+              ],
+              "analysis_steps": [
+                null
+              ],
+              "assay_term_names": [
+                null
+              ],
+              "award": null,
+              "date_created": null,
+              "description": null,
+              "documents": [
+                null
+              ],
+              "lab": null,
+              "notes": null,
+              "pipeline_version": null,
+              "references": [
+                null
+              ],
+              "schema_version": null,
+              "source_url": null,
+              "standards_page": null,
+              "status": null,
+              "submitted_by": null,
+              "submitter_comment": null,
+              "title": null,
+              "uuid": null
+            }
+          ],
+          "qa_stats_generated": [
+            null
+          ],
+          "schema_version": null,
+          "status": null,
+          "step_label": null,
+          "submitted_by": null,
+          "title": null,
+          "uuid": null,
+          "versions": [
+            null
+          ]
+        },
+        "date_created": null,
+        "minor_version": null,
+        "name": null,
+        "notes": null,
+        "schema_version": null,
+        "software_versions": [
+          null
+        ],
+        "status": null,
+        "submitted_by": null,
+        "uuid": null
+      },
+      "assay_term_name": null,
+      "assembly": null,
+      "award": null,
+      "biological_replicates": [
+        null
+      ],
+      "biosample_ontology": null,
+      "cloud_metadata": null,
+      "content_error_detail": null,
+      "content_md5sum": null,
+      "controlled_by": [
+        null
+      ],
+      "dataset": null,
+      "date_created": null,
+      "dbxrefs": [
+        null
+      ],
+      "derived_from": [
+        null
+      ],
+      "external_accession": null,
+      "fastq_signature": [
+        null
+      ],
+      "file_format": null,
+      "file_format_specifications": [
+        null
+      ],
+      "file_format_type": null,
+      "file_size": null,
+      "file_type": null,
+      "flowcell_details": [
+        null
+      ],
+      "genome_annotation": null,
+      "href": null,
+      "index_of": [
+        null
+      ],
+      "lab": {
+        "@id": null,
+        "@type": [
+          null
+        ],
+        "address1": null,
+        "address2": null,
+        "awards": [
+          null
+        ],
+        "city": null,
+        "country": null,
+        "fax": null,
+        "institute_label": null,
+        "institute_name": null,
+        "name": null,
+        "phone1": null,
+        "phone2": null,
+        "pi": null,
+        "postal_code": null,
+        "schema_version": null,
+        "state": null,
+        "status": null,
+        "title": null,
+        "url": null,
+        "uuid": null
+      },
+      "library": null,
+      "mapped_read_length": null,
+      "mapped_run_type": null,
+      "matching_md5sum": [
+        null
+      ],
+      "md5sum": null,
+      "no_file_available": null,
+      "notes": null,
+      "output_category": null,
+      "output_type": null,
+      "paired_end": null,
+      "paired_with": null,
+      "platform": {
+        "@id": null,
+        "@type": [
+          null
+        ],
+        "aliases": [
+          null
+        ],
+        "date_created": null,
+        "dbxrefs": [
+          null
+        ],
+        "notes": null,
+        "schema_version": null,
+        "status": null,
+        "submitted_by": null,
+        "term_id": null,
+        "term_name": null,
+        "title": null,
+        "url": null,
+        "uuid": null
+      },
+      "preferred_default": null,
+      "quality_metrics": [
+        {
+          "% of chimeric reads": null,
+          "% of reads mapped to multiple loci": null,
+          "% of reads mapped to too many loci": null,
+          "% of reads unmapped: other": null,
+          "% of reads unmapped: too many mismatches": null,
+          "% of reads unmapped: too short": null,
+          "1st fragments": null,
+          "25_pct": null,
+          "3prime_overlapping_ncrna": null,
+          "50_pct": null,
+          "75_pct": null,
+          "@id": null,
+          "@type": [
+            null
+          ],
+          "Average input read length": null,
+          "Average mapped length": null,
+          "C methylated in CHG context": null,
+          "C methylated in CHH context": null,
+          "C methylated in CpG context": null,
+          "CpG pairs": null,
+          "CpG pairs with atleast 10 reads each": null,
+          "Deletion average length": null,
+          "Deletion rate per base": null,
+          "Details": null,
+          "Estimated Library Size": null,
+          "F1": null,
+          "F2": null,
+          "Final parameter values (mu, sigma, rho, and mix)": [
+            null
+          ],
+          "Fp": null,
+          "Ft": null,
+          "IDR cutoff": null,
+          "IDR_cutoff": null,
+          "IDR_parameters_pool_pr": null,
+          "IDR_parameters_rep1_pr": null,
+          "IDR_parameters_rep2_pr": null,
+          "IDR_parameters_true": null,
+          "IDR_plot_pool_pr": null,
+          "IDR_plot_rep1_pr": null,
+          "IDR_plot_rep2_pr": null,
+          "IDR_plot_true": null,
+          "IG_C_gene": null,
+          "IG_C_pseudogene": null,
+          "IG_D_gene": null,
+          "IG_J_gene": null,
+          "IG_J_pseudogene": null,
+          "IG_V_gene": null,
+          "IG_V_pseudogene": null,
+          "Initial parameter values (mu, sigma, rho, and mix)": [
+            null
+          ],
+          "Insertion average length": null,
+          "Insertion rate per base": null,
+          "Items": null,
+          "MAD of log ratios": null,
+          "Mapping efficiency": null,
+          "Mapping speed, Million of reads per hour": null,
+          "Mismatch rate per base, %": null,
+          "Mt_rRNA": null,
+          "Mt_tRNA": null,
+          "N1": null,
+          "N2": null,
+          "NRF": null,
+          "NSC": null,
+          "N_conservative": null,
+          "N_optimal": null,
+          "Np": null,
+          "Nt": null,
+          "Number of chimeric reads": null,
+          "Number of input reads": null,
+          "Number of peaks passing IDR cutoff": null,
+          "Number of reads mapped to multiple loci": null,
+          "Number of reads mapped to too many loci": null,
+          "Number of reported peaks": null,
+          "Number of splices: AT/AC": null,
+          "Number of splices: Annotated (sjdb)": null,
+          "Number of splices: GC/AG": null,
+          "Number of splices: GT/AG": null,
+          "Number of splices: Non-canonical": null,
+          "Number of splices: Total": null,
+          "PBC1": null,
+          "PBC2": null,
+          "PE read-pairs processed": null,
+          "PE read-pairs trimmed": null,
+          "Pearson correlation": null,
+          "Percent Duplication": null,
+          "Percent peaks passing IDR cutoff": null,
+          "Percent reported peaks": null,
+          "RSC": null,
+          "Read Duplicates": null,
+          "Read Pair Duplicates": null,
+          "Read Pair Optical Duplicates": null,
+          "Read Pairs Examined": null,
+          "Reads Examined": null,
+          "SD of log ratios": null,
+          "SE reads processed": null,
+          "SE reads trimmed": null,
+          "SPOT1 score": null,
+          "SPOT2 score": null,
+          "Sequences analysed in total": null,
+          "Spearman correlation": null,
+          "Standard deviation": null,
+          "TEC": null,
+          "TR_C_gene": null,
+          "TR_D_gene": null,
+          "TR_J_gene": null,
+          "TR_J_pseudogene": null,
+          "TR_V_gene": null,
+          "TR_V_pseudogene": null,
+          "UMI Read Duplicates": null,
+          "Uniquely mapped reads %": null,
+          "Uniquely mapped reads number": null,
+          "Unmapped Reads": null,
+          "Unpaired Read Duplicates": null,
+          "Unpaired Reads Examined": null,
+          "aliases": [
+            null
+          ],
+          "alignedBy": null,
+          "aligned_reads": null,
+          "antisense": null,
+          "argmin_corr": null,
+          "assay_term_id": null,
+          "assay_term_name": null,
+          "attachment": null,
+          "auc": null,
+          "average length": null,
+          "average quality": null,
+          "award": null,
+          "bases duplicated": null,
+          "bases mapped": null,
+          "bases mapped (cigar)": null,
+          "bases trimmed": null,
+          "bidirectional_promoter_lncrna": null,
+          "ch_div": null,
+          "corr_estimated_fragment_len": null,
+          "corr_phantom_peak": null,
+          "cross_correlation_plot": null,
+          "date_created": null,
+          "di_nuc_peak_exists": null,
+          "diff_chroms": null,
+          "diff_chroms_qc_failed": null,
+          "diff_enrich": null,
+          "distinct_fragments": null,
+          "duplicate_reads": null,
+          "duplicate_reads_qc_failed": null,
+          "duplicates": null,
+          "duplicates_qc_failed": null,
+          "elbow_pt": null,
+          "error rate": null,
+          "estimated_fragment_len": null,
+          "expressed_mirnas": null,
+          "filtered sequences": null,
+          "frac_mito_reads": null,
+          "frac_reads_in_nfr": null,
+          "frac_reads_in_nfr_qc_pass": null,
+          "frac_reads_in_nfr_qc_reason": null,
+          "fragment length": null,
+          "fragment_length_distribution_plot": null,
+          "fri_blacklist": null,
+          "fri_dhs": null,
+          "fri_enh": null,
+          "fri_prom": null,
+          "frip": null,
+          "full_length_non_chimeric_read_count": null,
+          "gc_bias_plot": null,
+          "genes_detected": null,
+          "hotspot count": null,
+          "hotspot tags": null,
+          "idr_cutoff": null,
+          "idr_dispersion_plot": null,
+          "idr_parameters": null,
+          "insert size average": null,
+          "insert size standard deviation": null,
+          "inward oriented pairs": null,
+          "is sorted": null,
+          "isPaired": null,
+          "isSortedByTarget": null,
+          "jsd": null,
+          "jsd_plot": null,
+          "lab": null,
+          "lambda C methylated in CHG context": null,
+          "lambda C methylated in CHH context": null,
+          "lambda C methylated in CpG context": null,
+          "lambda Mapping efficiency": null,
+          "lambda Sequences analysed in total": null,
+          "last fragments": null,
+          "lincRNA": null,
+          "macro_lncRNA": null,
+          "mapped": null,
+          "mappedCount": null,
+          "mapped_pct": null,
+          "mapped_qc_failed": null,
+          "mapped_reads": null,
+          "mapped_reads_qc_failed": null,
+          "mapping_rate": null,
+          "max_size": null,
+          "maximum length": null,
+          "mean": null,
+          "miRNA": null,
+          "min_corr": null,
+          "min_size": null,
+          "misc_RNA": null,
+          "mismatches": null,
+          "mito_reads": null,
+          "mono_nuc_peak_exists": null,
+          "name": null,
+          "nfr_over_mono_nuc_reads": null,
+          "nfr_over_mono_nuc_reads_qc_pass": null,
+          "nfr_over_mono_nuc_reads_qc_reason": null,
+          "nfr_peak_exists": null,
+          "non-primary alignments": null,
+          "non_coding": null,
+          "non_mito_reads": null,
+          "npeak_overlap": null,
+          "nreads": null,
+          "nreads_in_peaks": null,
+          "number_of_genes_detected": null,
+          "outward oriented pairs": null,
+          "paired": null,
+          "paired-end": null,
+          "paired_duplicate_reads": null,
+          "paired_optical_duplicate_reads": null,
+          "paired_properly": null,
+          "paired_properly_pct": null,
+          "paired_properly_qc_failed": null,
+          "paired_qc_failed": null,
+          "paired_reads": null,
+          "paired_reads_qc_failed": null,
+          "pairs on different chromosomes": null,
+          "pairs with other orientation": null,
+          "pct_duplicate_reads": null,
+          "pct_genome_enrich": null,
+          "pct_mapped_reads": null,
+          "pct_properly_paired_reads": null,
+          "pct_singletons": null,
+          "peak_width_distribution_plot": null,
+          "peaks count": null,
+          "phantom_peak": null,
+          "polymorphic_pseudogene": null,
+          "positions_with_one_read": null,
+          "post-filter all reads": null,
+          "post-filter mapped reads": null,
+          "pre-filter all reads": null,
+          "pre-filter mapped reads": null,
+          "processed_pseudogene": null,
+          "processed_transcript": null,
+          "processing_stage": null,
+          "properly_paired_reads": null,
+          "properly_paired_reads_qc_failed": null,
+          "protein_coding": null,
+          "pseudogene": null,
+          "quality_metric_of": [
+            null
+          ],
+          "rRNA": null,
+          "raw total sequences": null,
+          "read length": null,
+          "read1": null,
+          "read1_qc_failed": null,
+          "read2": null,
+          "read2_qc_failed": null,
+          "readBaseCount": null,
+          "readCount": null,
+          "readSizeMax": null,
+          "readSizeMean": null,
+          "readSizeMin": null,
+          "readSizeStd": null,
+          "reads MQ0": null,
+          "reads QC failed": null,
+          "reads duplicated": null,
+          "reads mapped": null,
+          "reads mapped and paired": null,
+          "reads paired": null,
+          "reads properly paired": null,
+          "reads unmapped": null,
+          "reproducibility": null,
+          "reproducibility_test": null,
+          "reproducible_peaks": null,
+          "rescue_ratio": null,
+          "ribozyme": null,
+          "sRNA": null,
+          "sample size": null,
+          "scaRNA": null,
+          "schema_version": null,
+          "self_consistency_ratio": null,
+          "sense_intronic": null,
+          "sense_overlapping": null,
+          "sequences": null,
+          "singletons": null,
+          "singletons_pct": null,
+          "singletons_qc_failed": null,
+          "snRNA": null,
+          "snoRNA": null,
+          "spikein": null,
+          "status": null,
+          "step_run": null,
+          "submitted_by": null,
+          "subsampled_reads": null,
+          "syn_auc": null,
+          "syn_elbow_pt": null,
+          "syn_jsd": null,
+          "syn_x_intercept": null,
+          "tRNAscan": null,
+          "targetBaseCount": null,
+          "targetSeqCount": null,
+          "total": null,
+          "total length": null,
+          "total tags": null,
+          "total_fragments": null,
+          "total_qc_failed": null,
+          "total_reads": null,
+          "total_reads_qc_failed": null,
+          "transcribed_processed_pseudogene": null,
+          "transcribed_unitary_pseudogene": null,
+          "transcribed_unprocessed_pseudogene": null,
+          "translated_unprocessed_pseudogene": null,
+          "tss_enrichment": null,
+          "tss_enrichment_plot": null,
+          "u4mReadCount": null,
+          "u4mUniquePos": null,
+          "u4mUniqueRatio": null,
+          "uniqueMappedCount": null,
+          "unitary_pseudogene": null,
+          "unmapped_reads": null,
+          "unpaired_duplicate_reads": null,
+          "unpaired_reads": null,
+          "unprocessed_pseudogene": null,
+          "uuid": null,
+          "vaultRNA": null,
+          "with_itself": null,
+          "with_itself_qc_failed": null,
+          "x_intercept": null
+        }
+      ],
+      "read_count": null,
+      "read_length": null,
+      "read_length_units": null,
+      "read_name_details": null,
+      "read_structure": [
+        null
+      ],
+      "replicate": {
+        "@id": null,
+        "@type": [
+          null
+        ],
+        "aliases": [
+          null
+        ],
+        "antibody": null,
+        "biological_replicate_number": null,
+        "date_created": null,
+        "experiment": {
+          "@id": null,
+          "@type": [
+            null
+          ],
+          "accession": null,
+          "aliases": [
+            null
+          ],
+          "alternate_accessions": [
+            null
+          ],
+          "analyses": [
+            null
+          ],
+          "assay_slims": [
+            null
+          ],
+          "assay_synonyms": [
+            null
+          ],
+          "assay_term_id": null,
+          "assay_term_name": null,
+          "assay_title": null,
+          "assembly": [
+            null
+          ],
+          "award": null,
+          "biosample_ontology": null,
+          "biosample_summary": null,
+          "category_slims": [
+            null
+          ],
+          "contributing_files": [
+            null
+          ],
+          "control_type": null,
+          "date_created": null,
+          "date_released": null,
+          "date_submitted": null,
+          "dbxrefs": [
+            null
+          ],
+          "description": null,
+          "documents": [
+            null
+          ],
+          "elements_cloning": null,
+          "elements_mapping": null,
+          "elements_references": [
+            null
+          ],
+          "examined_loci": [
+            null
+          ],
+          "files": [
+            null
+          ],
+          "hub": null,
+          "internal_status": null,
+          "internal_tags": [
+            null
+          ],
+          "lab": {
+            "@id": null,
+            "@type": [
+              null
+            ],
+            "address1": null,
+            "address2": null,
+            "awards": [
+              null
+            ],
+            "city": null,
+            "country": null,
+            "fax": null,
+            "institute_label": null,
+            "institute_name": null,
+            "name": null,
+            "phone1": null,
+            "phone2": null,
+            "pi": null,
+            "postal_code": null,
+            "schema_version": null,
+            "state": null,
+            "status": null,
+            "title": null,
+            "url": null,
+            "uuid": null
+          },
+          "notes": null,
+          "objective_slims": [
+            null
+          ],
+          "original_files": [
+            null
+          ],
+          "pipeline_error_detail": null,
+          "plasmids_library_type": null,
+          "possible_controls": [
+            null
+          ],
+          "protein_tags": [
+            null
+          ],
+          "references": [
+            null
+          ],
+          "related_files": [
+            null
+          ],
+          "related_series": [
+            null
+          ],
+          "replicates": [
+            null
+          ],
+          "replication_type": null,
+          "revoked_files": [
+            null
+          ],
+          "schema_version": null,
+          "status": null,
+          "submitted_by": null,
+          "submitter_comment": null,
+          "superseded_by": [
+            null
+          ],
+          "supersedes": [
+            null
+          ],
+          "target": {
+            "@id": null,
+            "@type": [
+              null
+            ],
+            "aliases": [
+              null
+            ],
+            "dbxref": [
+              null
+            ],
+            "genes": [
+              {
+                "@id": null,
+                "@type": [
+                  null
+                ],
+                "dbxrefs": [
+                  null
+                ],
+                "geneid": null,
+                "locations": [
+                  null
+                ],
+                "name": null,
+                "ncbi_entrez_status": null,
+                "notes": null,
+                "organism": null,
+                "schema_version": null,
+                "status": null,
+                "symbol": null,
+                "synonyms": [
+                  null
+                ],
+                "targets": [
+                  null
+                ],
+                "title": null,
+                "uuid": null
+              }
+            ],
+            "investigated_as": [
+              null
+            ],
+            "label": null,
+            "modifications": [
+              null
+            ],
+            "name": null,
+            "notes": null,
+            "organism": null,
+            "schema_version": null,
+            "status": null,
+            "target_organism": null,
+            "title": null,
+            "uuid": null
+          },
+          "target_expression_percentile": null,
+          "target_expression_range_maximum": null,
+          "target_expression_range_minimum": null,
+          "type_slims": [
+            null
+          ],
+          "uuid": null
+        },
+        "libraries": [
+          null
+        ],
+        "library": null,
+        "notes": null,
+        "rbns_protein_concentration": null,
+        "rbns_protein_concentration_units": null,
+        "schema_version": null,
+        "status": null,
+        "submitted_by": null,
+        "technical_replicate_number": null,
+        "uuid": null
+      },
+      "replicate_libraries": [
+        null
+      ],
+      "restricted": null,
+      "restriction_enzymes": [
+        null
+      ],
+      "revoke_detail": null,
+      "run_type": null,
+      "s3_uri": null,
+      "schema_version": null,
+      "status": null,
+      "step_run": null,
+      "submitted_by": {
+        "@id": null,
+        "@type": [
+          null
+        ],
+        "email": null,
+        "first_name": null,
+        "groups": [
+          null
+        ],
+        "job_title": null,
+        "lab": null,
+        "last_name": null,
+        "schema_version": null,
+        "status": null,
+        "submits_for": [
+          null
+        ],
+        "title": null,
+        "uuid": null,
+        "viewing_groups": [
+          null
+        ]
+      },
+      "submitted_file_name": null,
+      "submitter_comment": null,
+      "superseded_by": [
+        null
+      ],
+      "supersedes": [
+        null
+      ],
+      "target": null,
+      "technical_replicates": [
+        null
+      ],
+      "title": null,
+      "upload_credentials": null,
+      "uuid": null
+    }
+  ],
+  "hub": null,
+  "internal_status": null,
+  "internal_tags": [
+    null
+  ],
+  "lab": {
+    "@id": null,
+    "@type": [
+      null
+    ],
+    "address1": null,
+    "address2": null,
+    "awards": [
+      null
+    ],
+    "city": null,
+    "country": null,
+    "fax": null,
+    "institute_label": null,
+    "institute_name": null,
+    "name": null,
+    "phone1": null,
+    "phone2": null,
+    "pi": null,
+    "postal_code": null,
+    "schema_version": null,
+    "state": null,
+    "status": null,
+    "title": null,
+    "url": null,
+    "uuid": null
+  },
+  "notes": null,
+  "objective_slims": [
+    null
+  ],
+  "original_files": [
+    null
+  ],
+  "pipeline_error_detail": null,
+  "possible_controls": [
+    {
+      "@id": null,
+      "@type": [
+        null
+      ],
+      "accession": null,
+      "aliases": [
+        null
+      ],
+      "alternate_accessions": [
+        null
+      ],
+      "analyses": [
+        null
+      ],
+      "annotation_type": null,
+      "assay_slims": [
+        null
+      ],
+      "assay_synonyms": [
+        null
+      ],
+      "assay_term_id": [
+        null
+      ],
+      "assay_term_name": [
+        null
+      ],
+      "assay_title": [
+        null
+      ],
+      "assembly": [
+        null
+      ],
+      "award": null,
+      "biosample_ontology": [
+        null
+      ],
+      "biosample_summary": [
+        null
+      ],
+      "category_slims": [
+        null
+      ],
+      "computational_model_type": null,
+      "contributing_awards": [
+        null
+      ],
+      "contributing_files": [
+        null
+      ],
+      "contributors": [
+        null
+      ],
+      "control_type": [
+        null
+      ],
+      "date_created": null,
+      "date_released": null,
+      "date_submitted": null,
+      "dbxrefs": [
+        null
+      ],
+      "description": null,
+      "documents": [
+        null
+      ],
+      "donor": null,
+      "elements_cloning": null,
+      "elements_mapping": null,
+      "elements_references": [
+        null
+      ],
+      "encyclopedia_version": null,
+      "examined_loci": [
+        null
+      ],
+      "files": [
+        null
+      ],
+      "hub": null,
+      "internal_status": null,
+      "internal_tags": [
+        null
+      ],
+      "lab": null,
+      "notes": null,
+      "objective_slims": [
+        null
+      ],
+      "organism": [
+        null
+      ],
+      "original_files": [
+        null
+      ],
+      "pipeline_error_detail": null,
+      "plasmids_library_type": null,
+      "possible_controls": [
+        null
+      ],
+      "project_type": null,
+      "protein_tags": [
+        null
+      ],
+      "reference_type": null,
+      "references": [
+        null
+      ],
+      "related_datasets": [
+        null
+      ],
+      "related_files": [
+        null
+      ],
+      "related_series": [
+        null
+      ],
+      "relevant_life_stage": null,
+      "relevant_timepoint": null,
+      "relevant_timepoint_units": null,
+      "replicates": [
+        null
+      ],
+      "replication_type": null,
+      "revoked_datasets": [
+        null
+      ],
+      "revoked_files": [
+        null
+      ],
+      "schema_version": null,
+      "software_used": [
+        null
+      ],
+      "status": null,
+      "submitted_by": null,
+      "submitter_comment": null,
+      "superseded_by": [
+        null
+      ],
+      "supersedes": [
+        null
+      ],
+      "target": [
+        null
+      ],
+      "target_expression_percentile": null,
+      "target_expression_range_maximum": null,
+      "target_expression_range_minimum": null,
+      "targets": [
+        null
+      ],
+      "treatment_term_name": [
+        null
+      ],
+      "type_slims": [
+        null
+      ],
+      "uuid": null
+    }
+  ],
+  "protein_tags": [
+    null
+  ],
+  "references": [
+    {
+      "@id": null,
+      "@type": [
+        null
+      ],
+      "abstract": null,
+      "authors": null,
+      "award": null,
+      "categories": [
+        null
+      ],
+      "data_used": null,
+      "datasets": [
+        null
+      ],
+      "date_created": null,
+      "date_published": null,
+      "date_revised": null,
+      "identifiers": [
+        null
+      ],
+      "issue": null,
+      "journal": null,
+      "lab": null,
+      "page": null,
+      "publication_year": null,
+      "published_by": [
+        null
+      ],
+      "schema_version": null,
+      "status": null,
+      "submitted_by": null,
+      "supplementary_data": [
+        null
+      ],
+      "title": null,
+      "uuid": null,
+      "volume": null
+    }
+  ],
+  "related_files": [
+    null
+  ],
+  "related_series": [
+    {
+      "@id": null,
+      "@type": [
+        null
+      ],
+      "accession": null,
+      "aliases": [
+        null
+      ],
+      "alternate_accessions": [
+        null
+      ],
+      "assay_slims": [
+        null
+      ],
+      "assay_synonyms": [
+        null
+      ],
+      "assay_term_id": [
+        null
+      ],
+      "assay_term_name": [
+        null
+      ],
+      "assay_title": [
+        null
+      ],
+      "assembly": [
+        null
+      ],
+      "award": null,
+      "biosample_ontology": [
+        null
+      ],
+      "biosample_summary": [
+        null
+      ],
+      "contributing_awards": [
+        null
+      ],
+      "contributing_files": [
+        null
+      ],
+      "contributors": [
+        null
+      ],
+      "control_type": [
+        null
+      ],
+      "date_created": null,
+      "date_released": null,
+      "dbxrefs": [
+        null
+      ],
+      "description": null,
+      "documents": [
+        null
+      ],
+      "files": [
+        null
+      ],
+      "hub": null,
+      "internal_tags": [
+        null
+      ],
+      "lab": null,
+      "notes": null,
+      "organism": [
+        null
+      ],
+      "original_files": [
+        null
+      ],
+      "references": [
+        null
+      ],
+      "related_datasets": [
+        null
+      ],
+      "revoked_datasets": [
+        null
+      ],
+      "revoked_files": [
+        null
+      ],
+      "schema_version": null,
+      "status": null,
+      "submitted_by": null,
+      "submitter_comment": null,
+      "superseded_by": [
+        null
+      ],
+      "supersedes": [
+        null
+      ],
+      "target": [
+        null
+      ],
+      "treatment_term_name": [
+        null
+      ],
+      "uuid": null
+    }
+  ],
+  "replicates": [
+    {
+      "@id": null,
+      "@type": [
+        null
+      ],
+      "aliases": [
+        null
+      ],
+      "antibody": {
+        "@id": null,
+        "@type": [
+          null
+        ],
+        "accession": null,
+        "aliases": [
+          null
+        ],
+        "alternate_accessions": [
+          null
+        ],
+        "antigen_description": null,
+        "antigen_sequence": null,
+        "award": null,
+        "characterizations": [
+          null
+        ],
+        "clonality": null,
+        "control_type": null,
+        "date_created": null,
+        "dbxrefs": [
+          null
+        ],
+        "host_organism": null,
+        "isotype": null,
+        "lab": null,
+        "lot_id": null,
+        "lot_id_alias": [
+          null
+        ],
+        "lot_reviews": [
+          null
+        ],
+        "notes": null,
+        "product_id": null,
+        "purifications": [
+          null
+        ],
+        "schema_version": null,
+        "source": null,
+        "status": null,
+        "submitted_by": null,
+        "targets": [
+          null
+        ],
+        "title": null,
+        "url": null,
+        "used_by_biosample_characterizations": [
+          null
+        ],
+        "uuid": null
+      },
+      "biological_replicate_number": null,
+      "date_created": null,
+      "experiment": null,
+      "libraries": [
+        {
+          "@id": null,
+          "@type": [
+            null
+          ],
+          "accession": null,
+          "adapters": [
+            null
+          ],
+          "aliases": [
+            null
+          ],
+          "alternate_accessions": [
+            null
+          ],
+          "antibodies": [
+            null
+          ],
+          "award": null,
+          "barcode_details": [
+            null
+          ],
+          "biosample": {
+            "@id": null,
+            "@type": [
+              null
+            ],
+            "PMI": null,
+            "PMI_units": null,
+            "accession": null,
+            "age": null,
+            "age_display": null,
+            "age_units": null,
+            "aliases": [
+              null
+            ],
+            "alternate_accessions": [
+              null
+            ],
+            "applied_modifications": [
+              {
+                "@id": null,
+                "@type": [
+                  null
+                ],
+                "RVD_sequence_pairs": [
+                  null
+                ],
+                "accession": null,
+                "aliases": [
+                  null
+                ],
+                "alternate_accessions": [
+                  null
+                ],
+                "award": null,
+                "biosamples_modified": [
+                  null
+                ],
+                "category": null,
+                "characterizations": [
+                  null
+                ],
+                "date_created": null,
+                "description": null,
+                "documents": [
+                  null
+                ],
+                "donor": null,
+                "donors_modified": [
+                  null
+                ],
+                "guide_rna_sequences": [
+                  null
+                ],
+                "introduced_elements": null,
+                "introduced_gene": null,
+                "introduced_sequence": null,
+                "introduced_tags": [
+                  null
+                ],
+                "lab": null,
+                "method": null,
+                "modified_site_by_coordinates": null,
+                "modified_site_by_gene_id": null,
+                "modified_site_by_sequence": null,
+                "modified_site_by_target_id": null,
+                "modified_site_nonspecific": null,
+                "notes": null,
+                "perturbation": null,
+                "purpose": null,
+                "reagents": [
+                  null
+                ],
+                "rnai_sequences": [
+                  null
+                ],
+                "schema_version": null,
+                "status": null,
+                "submitted_by": null,
+                "submitter_comment": null,
+                "treatments": [
+                  null
+                ],
+                "uuid": null,
+                "zygosity": null
+              }
+            ],
+            "award": null,
+            "biosample_ontology": null,
+            "cell_isolation_method": null,
+            "characterizations": [
+              null
+            ],
+            "culture_harvest_date": null,
+            "culture_start_date": null,
+            "date_created": null,
+            "date_obtained": null,
+            "dbxrefs": [
+              null
+            ],
+            "depleted_in_term_id": null,
+            "depleted_in_term_name": [
+              null
+            ],
+            "description": null,
+            "documents": [
+              null
+            ],
+            "donor": {
+              "@id": null,
+              "@type": [
+                null
+              ],
+              "accession": null,
+              "age": null,
+              "age_units": null,
+              "aliases": [
+                null
+              ],
+              "alternate_accessions": [
+                null
+              ],
+              "award": null,
+              "characterizations": [
+                null
+              ],
+              "children": [
+                null
+              ],
+              "date_created": null,
+              "dbxrefs": [
+                null
+              ],
+              "documents": [
+                null
+              ],
+              "ethnicity": null,
+              "external_ids": [
+                null
+              ],
+              "genetic_modifications": [
+                null
+              ],
+              "genotype": null,
+              "health_status": null,
+              "internal_tags": [
+                null
+              ],
+              "lab": null,
+              "life_stage": null,
+              "notes": null,
+              "num_times_outcrossed": null,
+              "organism": {
+                "@id": null,
+                "@type": [
+                  null
+                ],
+                "name": null,
+                "schema_version": null,
+                "scientific_name": null,
+                "status": null,
+                "taxon_id": null,
+                "uuid": null
+              },
+              "outcrossed_strain": null,
+              "parent_strains": [
+                null
+              ],
+              "parents": [
+                null
+              ],
+              "references": [
+                null
+              ],
+              "schema_version": null,
+              "sex": null,
+              "siblings": [
+                null
+              ],
+              "source": null,
+              "status": null,
+              "strain_background": null,
+              "strain_name": null,
+              "submitted_by": null,
+              "submitter_comment": null,
+              "twin": null,
+              "twin_type": null,
+              "url": null,
+              "uuid": null
+            },
+            "fly_life_stage": null,
+            "fly_synchronization_stage": null,
+            "genetic_modifications": [
+              null
+            ],
+            "health_status": null,
+            "host": null,
+            "internal_tags": [
+              null
+            ],
+            "lab": null,
+            "life_stage": null,
+            "lot_id": null,
+            "model_organism_age": null,
+            "model_organism_age_units": null,
+            "model_organism_donor_modifications": [
+              null
+            ],
+            "model_organism_health_status": null,
+            "model_organism_mating_status": null,
+            "model_organism_sex": null,
+            "mouse_life_stage": null,
+            "nih_institutional_certification": null,
+            "notes": null,
+            "organism": {
+              "@id": null,
+              "@type": [
+                null
+              ],
+              "name": null,
+              "schema_version": null,
+              "scientific_name": null,
+              "status": null,
+              "taxon_id": null,
+              "uuid": null
+            },
+            "originated_from": null,
+            "parent_of": [
+              null
+            ],
+            "part_of": {
+              "@id": null,
+              "@type": [
+                null
+              ],
+              "PMI": null,
+              "PMI_units": null,
+              "accession": null,
+              "age": null,
+              "age_display": null,
+              "age_units": null,
+              "aliases": [
+                null
+              ],
+              "alternate_accessions": [
+                null
+              ],
+              "applied_modifications": [
+                null
+              ],
+              "award": null,
+              "biosample_ontology": null,
+              "cell_isolation_method": null,
+              "characterizations": [
+                null
+              ],
+              "culture_harvest_date": null,
+              "culture_start_date": null,
+              "date_created": null,
+              "date_obtained": null,
+              "dbxrefs": [
+                null
+              ],
+              "depleted_in_term_id": null,
+              "depleted_in_term_name": [
+                null
+              ],
+              "description": null,
+              "documents": [
+                null
+              ],
+              "donor": {
+                "@id": null,
+                "@type": [
+                  null
+                ],
+                "accession": null,
+                "age": null,
+                "age_units": null,
+                "aliases": [
+                  null
+                ],
+                "alternate_accessions": [
+                  null
+                ],
+                "award": null,
+                "characterizations": [
+                  null
+                ],
+                "children": [
+                  null
+                ],
+                "date_created": null,
+                "dbxrefs": [
+                  null
+                ],
+                "documents": [
+                  null
+                ],
+                "ethnicity": null,
+                "external_ids": [
+                  null
+                ],
+                "genetic_modifications": [
+                  null
+                ],
+                "genotype": null,
+                "health_status": null,
+                "internal_tags": [
+                  null
+                ],
+                "lab": null,
+                "life_stage": null,
+                "notes": null,
+                "num_times_outcrossed": null,
+                "organism": null,
+                "outcrossed_strain": null,
+                "parent_strains": [
+                  null
+                ],
+                "parents": [
+                  null
+                ],
+                "references": [
+                  null
+                ],
+                "schema_version": null,
+                "sex": null,
+                "siblings": [
+                  null
+                ],
+                "source": null,
+                "status": null,
+                "strain_background": null,
+                "strain_name": null,
+                "submitted_by": null,
+                "submitter_comment": null,
+                "twin": null,
+                "twin_type": null,
+                "url": null,
+                "uuid": null
+              },
+              "fly_life_stage": null,
+              "fly_synchronization_stage": null,
+              "genetic_modifications": [
+                null
+              ],
+              "health_status": null,
+              "host": null,
+              "internal_tags": [
+                null
+              ],
+              "lab": null,
+              "life_stage": null,
+              "lot_id": null,
+              "model_organism_age": null,
+              "model_organism_age_units": null,
+              "model_organism_donor_modifications": [
+                null
+              ],
+              "model_organism_health_status": null,
+              "model_organism_mating_status": null,
+              "model_organism_sex": null,
+              "mouse_life_stage": null,
+              "nih_institutional_certification": null,
+              "notes": null,
+              "organism": null,
+              "originated_from": null,
+              "parent_of": [
+                null
+              ],
+              "part_of": null,
+              "passage_number": null,
+              "perturbed": null,
+              "phase": null,
+              "pooled_from": [
+                null
+              ],
+              "post_differentiation_time": null,
+              "post_differentiation_time_units": null,
+              "post_nucleic_acid_delivery_time": null,
+              "post_nucleic_acid_delivery_time_units": null,
+              "post_synchronization_time": null,
+              "post_synchronization_time_units": null,
+              "post_treatment_time": null,
+              "post_treatment_time_units": null,
+              "preservation_method": null,
+              "product_id": null,
+              "references": [
+                null
+              ],
+              "schema_version": null,
+              "sex": null,
+              "source": null,
+              "starting_amount": null,
+              "starting_amount_units": null,
+              "status": null,
+              "subcellular_fraction_term_id": null,
+              "subcellular_fraction_term_name": null,
+              "submitted_by": null,
+              "submitter_comment": null,
+              "summary": null,
+              "synchronization": null,
+              "treatments": [
+                {
+                  "@id": null,
+                  "@type": [
+                    null
+                  ],
+                  "aliases": [
+                    null
+                  ],
+                  "amount": null,
+                  "amount_units": null,
+                  "antibodies_used": [
+                    null
+                  ],
+                  "biosamples_used": [
+                    null
+                  ],
+                  "date_created": null,
+                  "dbxrefs": [
+                    null
+                  ],
+                  "documents": [
+                    null
+                  ],
+                  "duration": null,
+                  "duration_units": null,
+                  "notes": null,
+                  "product_id": null,
+                  "purpose": null,
+                  "schema_version": null,
+                  "source": null,
+                  "status": null,
+                  "submitted_by": null,
+                  "temperature": null,
+                  "temperature_units": null,
+                  "treatment_term_id": null,
+                  "treatment_term_name": null,
+                  "treatment_type": null,
+                  "uuid": null
+                }
+              ],
+              "url": null,
+              "uuid": null,
+              "worm_life_stage": null,
+              "worm_synchronization_stage": null
+            },
+            "passage_number": null,
+            "perturbed": null,
+            "phase": null,
+            "pooled_from": [
+              null
+            ],
+            "post_differentiation_time": null,
+            "post_differentiation_time_units": null,
+            "post_nucleic_acid_delivery_time": null,
+            "post_nucleic_acid_delivery_time_units": null,
+            "post_synchronization_time": null,
+            "post_synchronization_time_units": null,
+            "post_treatment_time": null,
+            "post_treatment_time_units": null,
+            "preservation_method": null,
+            "product_id": null,
+            "references": [
+              null
+            ],
+            "schema_version": null,
+            "sex": null,
+            "source": {
+              "@id": null,
+              "@type": [
+                null
+              ],
+              "aliases": [
+                null
+              ],
+              "description": null,
+              "name": null,
+              "notes": null,
+              "schema_version": null,
+              "status": null,
+              "title": null,
+              "url": null,
+              "uuid": null
+            },
+            "starting_amount": null,
+            "starting_amount_units": null,
+            "status": null,
+            "subcellular_fraction_term_id": null,
+            "subcellular_fraction_term_name": null,
+            "submitted_by": {
+              "@id": null,
+              "@type": [
+                null
+              ],
+              "email": null,
+              "first_name": null,
+              "groups": [
+                null
+              ],
+              "job_title": null,
+              "lab": null,
+              "last_name": null,
+              "schema_version": null,
+              "status": null,
+              "submits_for": [
+                null
+              ],
+              "title": null,
+              "uuid": null,
+              "viewing_groups": [
+                null
+              ]
+            },
+            "submitter_comment": null,
+            "summary": null,
+            "synchronization": null,
+            "treatments": [
+              {
+                "@id": null,
+                "@type": [
+                  null
+                ],
+                "aliases": [
+                  null
+                ],
+                "amount": null,
+                "amount_units": null,
+                "antibodies_used": [
+                  null
+                ],
+                "biosamples_used": [
+                  null
+                ],
+                "date_created": null,
+                "dbxrefs": [
+                  null
+                ],
+                "documents": [
+                  null
+                ],
+                "duration": null,
+                "duration_units": null,
+                "notes": null,
+                "product_id": null,
+                "purpose": null,
+                "schema_version": null,
+                "source": null,
+                "status": null,
+                "submitted_by": null,
+                "temperature": null,
+                "temperature_units": null,
+                "treatment_term_id": null,
+                "treatment_term_name": null,
+                "treatment_type": null,
+                "uuid": null
+              }
+            ],
+            "url": null,
+            "uuid": null,
+            "worm_life_stage": null,
+            "worm_synchronization_stage": null
+          },
+          "construction_platform": null,
+          "crosslinking_method": null,
+          "date_created": null,
+          "dbxrefs": [
+            null
+          ],
+          "depleted_in_term_id": null,
+          "depleted_in_term_name": [
+            null
+          ],
+          "documents": [
+            null
+          ],
+          "extraction_method": null,
+          "fragmentation_date": null,
+          "fragmentation_methods": [
+            null
+          ],
+          "lab": null,
+          "library_size_selection_method": null,
+          "lot_id": null,
+          "lysis_method": null,
+          "mint_mixture_identifier": null,
+          "notes": null,
+          "nucleic_acid_starting_quantity": null,
+          "nucleic_acid_starting_quantity_units": null,
+          "nucleic_acid_term_id": null,
+          "nucleic_acid_term_name": null,
+          "product_id": null,
+          "queried_RNP_size_range": null,
+          "replicates": [
+            null
+          ],
+          "rna_integrity_number": null,
+          "schema_version": null,
+          "size_range": null,
+          "source": null,
+          "spikeins_used": [
+            null
+          ],
+          "status": null,
+          "strand_specificity": null,
+          "submitted_by": null,
+          "submitter_comment": null,
+          "treatments": [
+            {
+              "@id": null,
+              "@type": [
+                null
+              ],
+              "aliases": [
+                null
+              ],
+              "amount": null,
+              "amount_units": null,
+              "antibodies_used": [
+                null
+              ],
+              "biosamples_used": [
+                null
+              ],
+              "date_created": null,
+              "dbxrefs": [
+                null
+              ],
+              "documents": [
+                null
+              ],
+              "duration": null,
+              "duration_units": null,
+              "notes": null,
+              "product_id": null,
+              "purpose": null,
+              "schema_version": null,
+              "source": null,
+              "status": null,
+              "submitted_by": null,
+              "temperature": null,
+              "temperature_units": null,
+              "treatment_term_id": null,
+              "treatment_term_name": null,
+              "treatment_type": null,
+              "uuid": null
+            }
+          ],
+          "uuid": null
+        }
+      ],
+      "library": {
+        "@id": null,
+        "@type": [
+          null
+        ],
+        "accession": null,
+        "adapters": [
+          null
+        ],
+        "aliases": [
+          null
+        ],
+        "alternate_accessions": [
+          null
+        ],
+        "antibodies": [
+          null
+        ],
+        "award": null,
+        "barcode_details": [
+          null
+        ],
+        "biosample": {
+          "@id": null,
+          "@type": [
+            null
+          ],
+          "PMI": null,
+          "PMI_units": null,
+          "accession": null,
+          "age": null,
+          "age_display": null,
+          "age_units": null,
+          "aliases": [
+            null
+          ],
+          "alternate_accessions": [
+            null
+          ],
+          "applied_modifications": [
+            {
+              "@id": null,
+              "@type": [
+                null
+              ],
+              "RVD_sequence_pairs": [
+                null
+              ],
+              "accession": null,
+              "aliases": [
+                null
+              ],
+              "alternate_accessions": [
+                null
+              ],
+              "award": null,
+              "biosamples_modified": [
+                null
+              ],
+              "category": null,
+              "characterizations": [
+                null
+              ],
+              "date_created": null,
+              "description": null,
+              "documents": [
+                null
+              ],
+              "donor": null,
+              "donors_modified": [
+                null
+              ],
+              "guide_rna_sequences": [
+                null
+              ],
+              "introduced_elements": null,
+              "introduced_gene": null,
+              "introduced_sequence": null,
+              "introduced_tags": [
+                null
+              ],
+              "lab": null,
+              "method": null,
+              "modified_site_by_coordinates": null,
+              "modified_site_by_gene_id": null,
+              "modified_site_by_sequence": null,
+              "modified_site_by_target_id": null,
+              "modified_site_nonspecific": null,
+              "notes": null,
+              "perturbation": null,
+              "purpose": null,
+              "reagents": [
+                null
+              ],
+              "rnai_sequences": [
+                null
+              ],
+              "schema_version": null,
+              "status": null,
+              "submitted_by": null,
+              "submitter_comment": null,
+              "treatments": [
+                null
+              ],
+              "uuid": null,
+              "zygosity": null
+            }
+          ],
+          "award": null,
+          "biosample_ontology": {
+            "@id": null,
+            "@type": [
+              null
+            ],
+            "aliases": [
+              null
+            ],
+            "cell_slims": [
+              null
+            ],
+            "classification": null,
+            "dbxrefs": [
+              null
+            ],
+            "developmental_slims": [
+              null
+            ],
+            "name": null,
+            "notes": null,
+            "organ_slims": [
+              null
+            ],
+            "references": [
+              null
+            ],
+            "schema_version": null,
+            "status": null,
+            "synonyms": [
+              null
+            ],
+            "system_slims": [
+              null
+            ],
+            "term_id": null,
+            "term_name": null,
+            "uuid": null
+          },
+          "cell_isolation_method": null,
+          "characterizations": [
+            null
+          ],
+          "culture_harvest_date": null,
+          "culture_start_date": null,
+          "date_created": null,
+          "date_obtained": null,
+          "dbxrefs": [
+            null
+          ],
+          "depleted_in_term_id": null,
+          "depleted_in_term_name": [
+            null
+          ],
+          "description": null,
+          "documents": [
+            null
+          ],
+          "donor": {
+            "@id": null,
+            "@type": [
+              null
+            ],
+            "accession": null,
+            "age": null,
+            "age_units": null,
+            "aliases": [
+              null
+            ],
+            "alternate_accessions": [
+              null
+            ],
+            "award": null,
+            "characterizations": [
+              null
+            ],
+            "children": [
+              null
+            ],
+            "date_created": null,
+            "dbxrefs": [
+              null
+            ],
+            "documents": [
+              null
+            ],
+            "ethnicity": null,
+            "external_ids": [
+              null
+            ],
+            "genetic_modifications": [
+              null
+            ],
+            "genotype": null,
+            "health_status": null,
+            "internal_tags": [
+              null
+            ],
+            "lab": null,
+            "life_stage": null,
+            "notes": null,
+            "num_times_outcrossed": null,
+            "organism": {
+              "@id": null,
+              "@type": [
+                null
+              ],
+              "name": null,
+              "schema_version": null,
+              "scientific_name": null,
+              "status": null,
+              "taxon_id": null,
+              "uuid": null
+            },
+            "outcrossed_strain": null,
+            "parent_strains": [
+              null
+            ],
+            "parents": [
+              null
+            ],
+            "references": [
+              null
+            ],
+            "schema_version": null,
+            "sex": null,
+            "siblings": [
+              null
+            ],
+            "source": null,
+            "status": null,
+            "strain_background": null,
+            "strain_name": null,
+            "submitted_by": null,
+            "submitter_comment": null,
+            "twin": null,
+            "twin_type": null,
+            "url": null,
+            "uuid": null
+          },
+          "fly_life_stage": null,
+          "fly_synchronization_stage": null,
+          "genetic_modifications": [
+            null
+          ],
+          "health_status": null,
+          "host": null,
+          "internal_tags": [
+            null
+          ],
+          "lab": null,
+          "life_stage": null,
+          "lot_id": null,
+          "model_organism_age": null,
+          "model_organism_age_units": null,
+          "model_organism_donor_modifications": [
+            null
+          ],
+          "model_organism_health_status": null,
+          "model_organism_mating_status": null,
+          "model_organism_sex": null,
+          "mouse_life_stage": null,
+          "nih_institutional_certification": null,
+          "notes": null,
+          "organism": {
+            "@id": null,
+            "@type": [
+              null
+            ],
+            "name": null,
+            "schema_version": null,
+            "scientific_name": null,
+            "status": null,
+            "taxon_id": null,
+            "uuid": null
+          },
+          "originated_from": null,
+          "parent_of": [
+            null
+          ],
+          "part_of": {
+            "@id": null,
+            "@type": [
+              null
+            ],
+            "PMI": null,
+            "PMI_units": null,
+            "accession": null,
+            "age": null,
+            "age_display": null,
+            "age_units": null,
+            "aliases": [
+              null
+            ],
+            "alternate_accessions": [
+              null
+            ],
+            "applied_modifications": [
+              null
+            ],
+            "award": null,
+            "biosample_ontology": null,
+            "cell_isolation_method": null,
+            "characterizations": [
+              null
+            ],
+            "culture_harvest_date": null,
+            "culture_start_date": null,
+            "date_created": null,
+            "date_obtained": null,
+            "dbxrefs": [
+              null
+            ],
+            "depleted_in_term_id": null,
+            "depleted_in_term_name": [
+              null
+            ],
+            "description": null,
+            "documents": [
+              null
+            ],
+            "donor": {
+              "@id": null,
+              "@type": [
+                null
+              ],
+              "accession": null,
+              "age": null,
+              "age_units": null,
+              "aliases": [
+                null
+              ],
+              "alternate_accessions": [
+                null
+              ],
+              "award": null,
+              "characterizations": [
+                null
+              ],
+              "children": [
+                null
+              ],
+              "date_created": null,
+              "dbxrefs": [
+                null
+              ],
+              "documents": [
+                null
+              ],
+              "ethnicity": null,
+              "external_ids": [
+                null
+              ],
+              "genetic_modifications": [
+                null
+              ],
+              "genotype": null,
+              "health_status": null,
+              "internal_tags": [
+                null
+              ],
+              "lab": null,
+              "life_stage": null,
+              "notes": null,
+              "num_times_outcrossed": null,
+              "organism": null,
+              "outcrossed_strain": null,
+              "parent_strains": [
+                null
+              ],
+              "parents": [
+                null
+              ],
+              "references": [
+                null
+              ],
+              "schema_version": null,
+              "sex": null,
+              "siblings": [
+                null
+              ],
+              "source": null,
+              "status": null,
+              "strain_background": null,
+              "strain_name": null,
+              "submitted_by": null,
+              "submitter_comment": null,
+              "twin": null,
+              "twin_type": null,
+              "url": null,
+              "uuid": null
+            },
+            "fly_life_stage": null,
+            "fly_synchronization_stage": null,
+            "genetic_modifications": [
+              null
+            ],
+            "health_status": null,
+            "host": null,
+            "internal_tags": [
+              null
+            ],
+            "lab": null,
+            "life_stage": null,
+            "lot_id": null,
+            "model_organism_age": null,
+            "model_organism_age_units": null,
+            "model_organism_donor_modifications": [
+              null
+            ],
+            "model_organism_health_status": null,
+            "model_organism_mating_status": null,
+            "model_organism_sex": null,
+            "mouse_life_stage": null,
+            "nih_institutional_certification": null,
+            "notes": null,
+            "organism": null,
+            "originated_from": null,
+            "parent_of": [
+              null
+            ],
+            "part_of": null,
+            "passage_number": null,
+            "perturbed": null,
+            "phase": null,
+            "pooled_from": [
+              null
+            ],
+            "post_differentiation_time": null,
+            "post_differentiation_time_units": null,
+            "post_nucleic_acid_delivery_time": null,
+            "post_nucleic_acid_delivery_time_units": null,
+            "post_synchronization_time": null,
+            "post_synchronization_time_units": null,
+            "post_treatment_time": null,
+            "post_treatment_time_units": null,
+            "preservation_method": null,
+            "product_id": null,
+            "references": [
+              null
+            ],
+            "schema_version": null,
+            "sex": null,
+            "source": null,
+            "starting_amount": null,
+            "starting_amount_units": null,
+            "status": null,
+            "subcellular_fraction_term_id": null,
+            "subcellular_fraction_term_name": null,
+            "submitted_by": null,
+            "submitter_comment": null,
+            "summary": null,
+            "synchronization": null,
+            "treatments": [
+              {
+                "@id": null,
+                "@type": [
+                  null
+                ],
+                "aliases": [
+                  null
+                ],
+                "amount": null,
+                "amount_units": null,
+                "antibodies_used": [
+                  null
+                ],
+                "biosamples_used": [
+                  null
+                ],
+                "date_created": null,
+                "dbxrefs": [
+                  null
+                ],
+                "documents": [
+                  null
+                ],
+                "duration": null,
+                "duration_units": null,
+                "notes": null,
+                "product_id": null,
+                "purpose": null,
+                "schema_version": null,
+                "source": null,
+                "status": null,
+                "submitted_by": null,
+                "temperature": null,
+                "temperature_units": null,
+                "treatment_term_id": null,
+                "treatment_term_name": null,
+                "treatment_type": null,
+                "uuid": null
+              }
+            ],
+            "url": null,
+            "uuid": null,
+            "worm_life_stage": null,
+            "worm_synchronization_stage": null
+          },
+          "passage_number": null,
+          "perturbed": null,
+          "phase": null,
+          "pooled_from": [
+            null
+          ],
+          "post_differentiation_time": null,
+          "post_differentiation_time_units": null,
+          "post_nucleic_acid_delivery_time": null,
+          "post_nucleic_acid_delivery_time_units": null,
+          "post_synchronization_time": null,
+          "post_synchronization_time_units": null,
+          "post_treatment_time": null,
+          "post_treatment_time_units": null,
+          "preservation_method": null,
+          "product_id": null,
+          "references": [
+            null
+          ],
+          "schema_version": null,
+          "sex": null,
+          "source": {
+            "@id": null,
+            "@type": [
+              null
+            ],
+            "aliases": [
+              null
+            ],
+            "description": null,
+            "name": null,
+            "notes": null,
+            "schema_version": null,
+            "status": null,
+            "title": null,
+            "url": null,
+            "uuid": null
+          },
+          "starting_amount": null,
+          "starting_amount_units": null,
+          "status": null,
+          "subcellular_fraction_term_id": null,
+          "subcellular_fraction_term_name": null,
+          "submitted_by": {
+            "@id": null,
+            "@type": [
+              null
+            ],
+            "email": null,
+            "first_name": null,
+            "groups": [
+              null
+            ],
+            "job_title": null,
+            "lab": null,
+            "last_name": null,
+            "schema_version": null,
+            "status": null,
+            "submits_for": [
+              null
+            ],
+            "title": null,
+            "uuid": null,
+            "viewing_groups": [
+              null
+            ]
+          },
+          "submitter_comment": null,
+          "summary": null,
+          "synchronization": null,
+          "treatments": [
+            {
+              "@id": null,
+              "@type": [
+                null
+              ],
+              "aliases": [
+                null
+              ],
+              "amount": null,
+              "amount_units": null,
+              "antibodies_used": [
+                null
+              ],
+              "biosamples_used": [
+                null
+              ],
+              "date_created": null,
+              "dbxrefs": [
+                null
+              ],
+              "documents": [
+                null
+              ],
+              "duration": null,
+              "duration_units": null,
+              "notes": null,
+              "product_id": null,
+              "purpose": null,
+              "schema_version": null,
+              "source": null,
+              "status": null,
+              "submitted_by": null,
+              "temperature": null,
+              "temperature_units": null,
+              "treatment_term_id": null,
+              "treatment_term_name": null,
+              "treatment_type": null,
+              "uuid": null
+            }
+          ],
+          "url": null,
+          "uuid": null,
+          "worm_life_stage": null,
+          "worm_synchronization_stage": null
+        },
+        "construction_platform": {
+          "@id": null,
+          "@type": [
+            null
+          ],
+          "aliases": [
+            null
+          ],
+          "date_created": null,
+          "dbxrefs": [
+            null
+          ],
+          "notes": null,
+          "schema_version": null,
+          "status": null,
+          "submitted_by": null,
+          "term_id": null,
+          "term_name": null,
+          "title": null,
+          "url": null,
+          "uuid": null
+        },
+        "crosslinking_method": null,
+        "date_created": null,
+        "dbxrefs": [
+          null
+        ],
+        "depleted_in_term_id": null,
+        "depleted_in_term_name": [
+          null
+        ],
+        "documents": [
+          null
+        ],
+        "extraction_method": null,
+        "fragmentation_date": null,
+        "fragmentation_methods": [
+          null
+        ],
+        "lab": null,
+        "library_size_selection_method": null,
+        "lot_id": null,
+        "lysis_method": null,
+        "mint_mixture_identifier": null,
+        "notes": null,
+        "nucleic_acid_starting_quantity": null,
+        "nucleic_acid_starting_quantity_units": null,
+        "nucleic_acid_term_id": null,
+        "nucleic_acid_term_name": null,
+        "product_id": null,
+        "queried_RNP_size_range": null,
+        "replicates": [
+          null
+        ],
+        "rna_integrity_number": null,
+        "schema_version": null,
+        "size_range": null,
+        "source": null,
+        "spikeins_used": [
+          null
+        ],
+        "status": null,
+        "strand_specificity": null,
+        "submitted_by": null,
+        "submitter_comment": null,
+        "treatments": [
+          {
+            "@id": null,
+            "@type": [
+              null
+            ],
+            "aliases": [
+              null
+            ],
+            "amount": null,
+            "amount_units": null,
+            "antibodies_used": [
+              null
+            ],
+            "biosamples_used": [
+              null
+            ],
+            "date_created": null,
+            "dbxrefs": [
+              null
+            ],
+            "documents": [
+              null
+            ],
+            "duration": null,
+            "duration_units": null,
+            "notes": null,
+            "product_id": null,
+            "purpose": null,
+            "schema_version": null,
+            "source": null,
+            "status": null,
+            "submitted_by": null,
+            "temperature": null,
+            "temperature_units": null,
+            "treatment_term_id": null,
+            "treatment_term_name": null,
+            "treatment_type": null,
+            "uuid": null
+          }
+        ],
+        "uuid": null
+      },
+      "notes": null,
+      "rbns_protein_concentration": null,
+      "rbns_protein_concentration_units": null,
+      "schema_version": null,
+      "status": null,
+      "submitted_by": null,
+      "technical_replicate_number": null,
+      "uuid": null
+    }
+  ],
+  "replication_type": null,
+  "revoked_files": [
+    {
+      "@id": null,
+      "@type": [
+        null
+      ],
+      "accession": null,
+      "aliases": [
+        null
+      ],
+      "alternate_accessions": [
+        null
+      ],
+      "analysis_step_version": null,
+      "assay_term_name": null,
+      "assembly": null,
+      "award": null,
+      "biological_replicates": [
+        null
+      ],
+      "biosample_ontology": null,
+      "cloud_metadata": null,
+      "content_error_detail": null,
+      "content_md5sum": null,
+      "controlled_by": [
+        null
+      ],
+      "dataset": null,
+      "date_created": null,
+      "dbxrefs": [
+        null
+      ],
+      "derived_from": [
+        null
+      ],
+      "external_accession": null,
+      "fastq_signature": [
+        null
+      ],
+      "file_format": null,
+      "file_format_specifications": [
+        null
+      ],
+      "file_format_type": null,
+      "file_size": null,
+      "file_type": null,
+      "flowcell_details": [
+        null
+      ],
+      "genome_annotation": null,
+      "href": null,
+      "index_of": [
+        null
+      ],
+      "lab": null,
+      "library": null,
+      "mapped_read_length": null,
+      "mapped_run_type": null,
+      "matching_md5sum": [
+        null
+      ],
+      "md5sum": null,
+      "no_file_available": null,
+      "notes": null,
+      "output_category": null,
+      "output_type": null,
+      "paired_end": null,
+      "paired_with": null,
+      "platform": null,
+      "preferred_default": null,
+      "quality_metrics": [
+        null
+      ],
+      "read_count": null,
+      "read_length": null,
+      "read_length_units": null,
+      "read_name_details": null,
+      "read_structure": [
+        null
+      ],
+      "replicate": {
+        "@id": null,
+        "@type": [
+          null
+        ],
+        "aliases": [
+          null
+        ],
+        "antibody": null,
+        "biological_replicate_number": null,
+        "date_created": null,
+        "experiment": {
+          "@id": null,
+          "@type": [
+            null
+          ],
+          "accession": null,
+          "aliases": [
+            null
+          ],
+          "alternate_accessions": [
+            null
+          ],
+          "analyses": [
+            null
+          ],
+          "assay_slims": [
+            null
+          ],
+          "assay_synonyms": [
+            null
+          ],
+          "assay_term_id": null,
+          "assay_term_name": null,
+          "assay_title": null,
+          "assembly": [
+            null
+          ],
+          "award": null,
+          "biosample_ontology": null,
+          "biosample_summary": null,
+          "category_slims": [
+            null
+          ],
+          "contributing_files": [
+            null
+          ],
+          "control_type": null,
+          "date_created": null,
+          "date_released": null,
+          "date_submitted": null,
+          "dbxrefs": [
+            null
+          ],
+          "description": null,
+          "documents": [
+            null
+          ],
+          "elements_cloning": null,
+          "elements_mapping": null,
+          "elements_references": [
+            null
+          ],
+          "examined_loci": [
+            null
+          ],
+          "files": [
+            null
+          ],
+          "hub": null,
+          "internal_status": null,
+          "internal_tags": [
+            null
+          ],
+          "lab": {
+            "@id": null,
+            "@type": [
+              null
+            ],
+            "address1": null,
+            "address2": null,
+            "awards": [
+              null
+            ],
+            "city": null,
+            "country": null,
+            "fax": null,
+            "institute_label": null,
+            "institute_name": null,
+            "name": null,
+            "phone1": null,
+            "phone2": null,
+            "pi": null,
+            "postal_code": null,
+            "schema_version": null,
+            "state": null,
+            "status": null,
+            "title": null,
+            "url": null,
+            "uuid": null
+          },
+          "notes": null,
+          "objective_slims": [
+            null
+          ],
+          "original_files": [
+            null
+          ],
+          "pipeline_error_detail": null,
+          "plasmids_library_type": null,
+          "possible_controls": [
+            null
+          ],
+          "protein_tags": [
+            null
+          ],
+          "references": [
+            null
+          ],
+          "related_files": [
+            null
+          ],
+          "related_series": [
+            null
+          ],
+          "replicates": [
+            null
+          ],
+          "replication_type": null,
+          "revoked_files": [
+            null
+          ],
+          "schema_version": null,
+          "status": null,
+          "submitted_by": null,
+          "submitter_comment": null,
+          "superseded_by": [
+            null
+          ],
+          "supersedes": [
+            null
+          ],
+          "target": {
+            "@id": null,
+            "@type": [
+              null
+            ],
+            "aliases": [
+              null
+            ],
+            "dbxref": [
+              null
+            ],
+            "genes": [
+              {
+                "@id": null,
+                "@type": [
+                  null
+                ],
+                "dbxrefs": [
+                  null
+                ],
+                "geneid": null,
+                "locations": [
+                  null
+                ],
+                "name": null,
+                "ncbi_entrez_status": null,
+                "notes": null,
+                "organism": null,
+                "schema_version": null,
+                "status": null,
+                "symbol": null,
+                "synonyms": [
+                  null
+                ],
+                "targets": [
+                  null
+                ],
+                "title": null,
+                "uuid": null
+              }
+            ],
+            "investigated_as": [
+              null
+            ],
+            "label": null,
+            "modifications": [
+              null
+            ],
+            "name": null,
+            "notes": null,
+            "organism": null,
+            "schema_version": null,
+            "status": null,
+            "target_organism": null,
+            "title": null,
+            "uuid": null
+          },
+          "target_expression_percentile": null,
+          "target_expression_range_maximum": null,
+          "target_expression_range_minimum": null,
+          "type_slims": [
+            null
+          ],
+          "uuid": null
+        },
+        "libraries": [
+          null
+        ],
+        "library": null,
+        "notes": null,
+        "rbns_protein_concentration": null,
+        "rbns_protein_concentration_units": null,
+        "schema_version": null,
+        "status": null,
+        "submitted_by": null,
+        "technical_replicate_number": null,
+        "uuid": null
+      },
+      "replicate_libraries": [
+        null
+      ],
+      "restricted": null,
+      "restriction_enzymes": [
+        null
+      ],
+      "revoke_detail": null,
+      "run_type": null,
+      "s3_uri": null,
+      "schema_version": null,
+      "status": null,
+      "step_run": null,
+      "submitted_by": {
+        "@id": null,
+        "@type": [
+          null
+        ],
+        "email": null,
+        "first_name": null,
+        "groups": [
+          null
+        ],
+        "job_title": null,
+        "lab": null,
+        "last_name": null,
+        "schema_version": null,
+        "status": null,
+        "submits_for": [
+          null
+        ],
+        "title": null,
+        "uuid": null,
+        "viewing_groups": [
+          null
+        ]
+      },
+      "submitted_file_name": null,
+      "submitter_comment": null,
+      "superseded_by": [
+        null
+      ],
+      "supersedes": [
+        null
+      ],
+      "target": null,
+      "technical_replicates": [
+        null
+      ],
+      "title": null,
+      "upload_credentials": null,
+      "uuid": null
+    }
+  ],
+  "schema_version": null,
+  "status": null,
+  "submitted_by": {
+    "@id": null,
+    "@type": [
+      null
+    ],
+    "email": null,
+    "first_name": null,
+    "groups": [
+      null
+    ],
+    "job_title": null,
+    "lab": null,
+    "last_name": null,
+    "schema_version": null,
+    "status": null,
+    "submits_for": [
+      null
+    ],
+    "title": null,
+    "uuid": null,
+    "viewing_groups": [
+      null
+    ]
+  },
+  "submitter_comment": null,
+  "superseded_by": [
+    null
+  ],
+  "supersedes": [
+    null
+  ],
+  "target": {
+    "@id": null,
+    "@type": [
+      null
+    ],
+    "aliases": [
+      null
+    ],
+    "dbxref": [
+      null
+    ],
+    "genes": [
+      {
+        "@id": null,
+        "@type": [
+          null
+        ],
+        "dbxrefs": [
+          null
+        ],
+        "geneid": null,
+        "locations": [
+          null
+        ],
+        "name": null,
+        "ncbi_entrez_status": null,
+        "notes": null,
+        "organism": null,
+        "schema_version": null,
+        "status": null,
+        "symbol": null,
+        "synonyms": [
+          null
+        ],
+        "targets": [
+          null
+        ],
+        "title": null,
+        "uuid": null
+      }
+    ],
+    "investigated_as": [
+      null
+    ],
+    "label": null,
+    "modifications": [
+      null
+    ],
+    "name": null,
+    "notes": null,
+    "organism": {
+      "@id": null,
+      "@type": [
+        null
+      ],
+      "name": null,
+      "schema_version": null,
+      "scientific_name": null,
+      "status": null,
+      "taxon_id": null,
+      "uuid": null
+    },
+    "schema_version": null,
+    "status": null,
+    "target_organism": null,
+    "title": null,
+    "uuid": null
+  },
+  "type_slims": [
+    null
+  ],
+  "uuid": null
+}
