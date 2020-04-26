@@ -88,7 +88,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
             // This conversion triggers a huge number of allocations.
             // Could probably write directly to output.
             log::trace!("begin_from_vec");
-            let value: serde_json::Value = flexbuffers::from_vec(data).unwrap();
+            let value: serde_json::Value = flexbuffers::from_slice(data).unwrap();
             log::trace!("end_from_vec");
             log::trace!("begin_to_vec");
             let mut json_data = serde_json::to_vec(&value)?;

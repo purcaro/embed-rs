@@ -14,7 +14,7 @@ fn main() -> io::Result<()> {
 
             let value: serde_json::Value = match &format_in[..] {
                 "json" => serde_json::from_slice(&buf_in)?,
-                "flexbuffer" => flexbuffers::from_vec(&buf_in).unwrap(),
+                "flexbuffer" => flexbuffers::from_slice(&buf_in).unwrap(),
                 _ => panic!("invalid arg format_in"),
             };
 
