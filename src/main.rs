@@ -81,6 +81,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
         log::trace!("begin_output");
         let begin_output = Instant::now();
         let data = builder.view();
+        let size;
         if output_json {
             // This conversion triggers a huge number of allocations.
             // Could probably write directly to output.
@@ -91,9 +92,11 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
             let mut json_data = serde_json::to_vec(&value)?;
             log::trace!("end_to_vec");
             json_data.push('\n' as u8);
+            size = json_data.len();
             out.write_all(&json_data)?;
         //serde_json::to_writer(out, &value)?;
         } else {
+            size = data.len();
             out.write_all(data)?;
         }
         let end_output = Instant::now();
@@ -103,10 +106,11 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
         let end_txn = Instant::now();
         log::trace!("end_txn");
         log::info!(
-            "txn:{:?} embed:{:?} output:{:?} root:{}",
+            "txn:{:?} embed:{:?} output:{:?} size:{} root:{}",
             end_txn.duration_since(begin_txn),
             end_embed.duration_since(begin_embed),
             end_output.duration_since(begin_output),
+            size,
             root,
         );
     }
