@@ -56,9 +56,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     };
     let mut out = io::BufWriter::new(writer);
 
-    let txn1 = env.begin_ro_txn().unwrap();
-    let frame = txn1.get(framesdb, &frame).to_owned().unwrap().to_vec();
-    let mut inactive = txn1.reset();
+    let mut inactive = env.begin_ro_txn().unwrap().reset();
 
     // By reusing the builder we avoid reallocations on subsequent uses.
     let mut builder = flexbuffers::Builder::default();
@@ -67,6 +65,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
         log::trace!("begin_txn");
         let begin_txn = Instant::now();
         let txn = inactive.renew().unwrap();
+        let frame = txn.get(framesdb, &frame)?;
 
         log::trace!("begin_embed");
         let begin_embed = Instant::now();
