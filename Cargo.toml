@@ -12,7 +12,7 @@ debug = true
 
 [dependencies]
 clap = "~2.33"
-flexbuffers = { git = "https://github.com/CasperN/flatbuffers" }
+flexbuffers = { git = "https://github.com/lrowe/flatbuffers" }
 lmdb-rkv = "~0.14"
 serde_json = "~1.0"
 log = "~0.4"

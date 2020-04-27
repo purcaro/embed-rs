@@ -85,7 +85,7 @@ version = "0.1.0"
 dependencies = [
  "clap 2.33.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "env_logger 0.7.1 (registry+https://github.com/rust-lang/crates.io-index)",
- "flexbuffers 0.1.0 (git+https://github.com/CasperN/flatbuffers)",
+ "flexbuffers 0.1.0 (git+https://github.com/lrowe/flatbuffers)",
  "lmdb-rkv 0.14.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "log 0.4.8 (registry+https://github.com/rust-lang/crates.io-index)",
  "logging-allocator 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -107,7 +107,7 @@ dependencies = [
 [[package]]
 name = "flexbuffers"
 version = "0.1.0"
-source = "git+https://github.com/CasperN/flatbuffers#0e48eb45873280a81fd8e84cbda3d4877e25cb6c"
+source = "git+https://github.com/lrowe/flatbuffers#c0856218030ad3c3eb763f3f58a01ed62497f149"
 dependencies = [
  "bitflags 1.2.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "byteorder 1.3.4 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -419,7 +419,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 "checksum debug_stub_derive 0.3.0 (registry+https://github.com/rust-lang/crates.io-index)" = "496b7f8a2f853313c3ca370641d7ff3e42c32974fdccda8f0684599ed0a3ff6b"
 "checksum derivative 2.1.1 (registry+https://github.com/rust-lang/crates.io-index)" = "cb582b60359da160a9477ee80f15c8d784c477e69c217ef2cdd4169c24ea380f"
 "checksum env_logger 0.7.1 (registry+https://github.com/rust-lang/crates.io-index)" = "44533bbbb3bb3c1fa17d9f2e4e38bbbaf8396ba82193c4cb1b6445d711445d36"
-"checksum flexbuffers 0.1.0 (git+https://github.com/CasperN/flatbuffers)" = "<none>"
+"checksum flexbuffers 0.1.0 (git+https://github.com/lrowe/flatbuffers)" = "<none>"
 "checksum hermit-abi 0.1.12 (registry+https://github.com/rust-lang/crates.io-index)" = "61565ff7aaace3525556587bd2dc31d4a07071957be715e63ce7b1eccf51a8f4"
 "checksum humantime 1.3.0 (registry+https://github.com/rust-lang/crates.io-index)" = "df004cfca50ef23c36850aaaa59ad52cc70d0e90243c3c7737a4dd32dc7a3c4f"
 "checksum itoa 0.4.5 (registry+https://github.com/rust-lang/crates.io-index)" = "b8b7a7c0c47db5545ed3fef7468ee7bb5b74691498139e4b3f6a20685dc6dd8e"
